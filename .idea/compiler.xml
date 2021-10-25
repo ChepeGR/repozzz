@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled1" />
+        <module name="Practica1" />
+        <module name="chepeChinoMarket" />
+        <module name="selenium_chepe" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chepeChinoMarket" target="1.7" />
+      <module name="Practica1" target="1.7" />
+      <module name="selenium_chepe" target="1.7" />
+      <module name="untitled1" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
